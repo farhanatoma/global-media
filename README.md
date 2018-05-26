@@ -1,0 +1,2 @@
+# global-media
+global media
